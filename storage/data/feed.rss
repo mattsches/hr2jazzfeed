@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>hr2 Jazz</title>
+    <link>http://localhost</link>
+    <description>Transformed hr2 Jazz Feed</description>
+    <item>
+      <title>hr-Bigband feat. Frits Landsbergen, cond. by Ed Partyka: "The Music of The Terry Gibbs Dream Band"</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150319_hrBB_220315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Live Jazz | Albert Mangelsdorff Quintett, Deutsches Jazzfestival Frankfurt 1962 und 1968</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150319_LJ_210315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Swingtime mit Bill Ramsey | As Time Goes By</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150319_SWT_200315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jazz Now | Aus dem Dschungel der Neuveröffentlichungen</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150316_JN_190315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jazzfacts | Jeder Satz eine Provokation: "The Whistle Blower" Gilad Atzmon</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150317_Jfacts_180315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jazzgroove | An den Rändern des Jazz</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150316_JG_170315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jazz Now | Aus dem Dschungel der Neuveröffentlichungen</title>
+      <link/>
+      <description/>
+      <enclosure url="http://www.hr.gl-systemhaus.de/mp3/hr2/20150313_JN_160315_audio_256k.mp3" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
